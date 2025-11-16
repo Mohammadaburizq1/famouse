@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+
+# Virtual environments
+venv/
+.env/
+.env.bak/
+*.env
+
+# FastAPI & Uvicorn logs
+*.log
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy, Pylint
+.mypy_cache/
+.pylint.d/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Byte-compiled
+*.DS_Store
+
+# Cache
+.cache/
+
+# IDE files
+.idea/
+*.iml
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Build directories
+dist/
+build/
