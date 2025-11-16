@@ -1,0 +1,29 @@
+# A modern, fast web framework for Python APIs.
+fastapi
+
+# A lightning-fast ASGI server for running FastAPI.
+uvicorn[standard]
+
+# The most popular ORM in Python.
+sqlalchemy
+
+# PostgreSQL driver for Python.
+psycopg2-binary
+
+# Database migration tool for SQLAlchemy.
+alembic
+
+# To load secrets like:
+python-dotenv
+
+# Pydantic v2 helper for configuration management.
+pydantic-settings
+
+# A secure password hashing library.
+passlib[bcrypt]
+
+# Library for creating and verifying JWT tokens.
+python-jose[cryptography]
+
+# (Python testing framework).
+pytest
